@@ -1,5 +1,8 @@
 # Combustion
 
+## My fork
+I've forked this project from Secretmapper/combustion in order to learn more React. I doubt there is much here that will interest anyone else, but I do intend to put in a couple of pull requests.
+
 ## Introduction
 
 Combustion is a sleek, modern web interface for [Transmission](https://transmissionbt.com)
